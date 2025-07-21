@@ -1,6 +1,3 @@
-Copyright © 2025 State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, University of Wuhan.  
-For questions, contact wangzhuoer@whu.edu.cn
-
 # TCCBRN
 This repository is the code of "TCCBRN: A Causal Convolutional Recurrent Network for Indirect Trajectory Prediction without its position information" on the HighD dataset. 
 
@@ -15,6 +12,7 @@ Accurate short-term vehicle trajectory prediction is crucial for building intell
 ## Acknowledgment
 This research was supported by the State Key Program of National Natural Science Foun dation of China (52332010). The numerical calculations in this article have been done on the supercomputing system in the Supercomputing Center of Wuhan University. The authors also acknowledge all editors and reviewers for their suggestions.
 
-
+Copyright © 2025 State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, University of Wuhan.  
+For questions, contact wangzhuoer@whu.edu.cn
 
 
