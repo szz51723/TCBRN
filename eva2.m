@@ -1,4 +1,3 @@
-%决定系数
 function R2=eva1(T_test,T_sim2)
 
 N = length(T_test);
