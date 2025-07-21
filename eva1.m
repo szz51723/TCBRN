@@ -1,4 +1,3 @@
-% 决定系数
 function R2=eva1(T_train,T_sim1)
 
 N = length(T_train);
